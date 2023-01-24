@@ -1,0 +1,21 @@
+#txt {
+    position: absolute;
+    top: 162%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-weight: 400;
+}
+#crd-prj {
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    top: 13%;
+}
+#netflix-img {
+    width: 347px;
+    border-radius: 2%;
+    height: 203px;
+}
+.proj {
+    background-color: #efe1bd;
+}

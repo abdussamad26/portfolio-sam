@@ -1,0 +1,42 @@
+.img1 {
+   position: absolute;
+   top: 40%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+img {
+    width: 150px;
+}
+.header {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+h1 {
+    font-weight: 750;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    border-bottom: 100px solid transparent;
+    border-left: 100px solid rgb(37, 37, 37);
+    transform: translate(-311%,-1%);
+}
+#gitimg {
+    width: 40px;
+    transform: translate(-756%,-220%);
+}
+.typing {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,45%);
+    font-size: 30px;
+}
+#switch {
+   position: absolute;
+   top: 65%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}

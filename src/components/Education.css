@@ -1,0 +1,178 @@
+#ed-text {
+    position: absolute;
+    top: 263%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.ed-line {
+    height: 490px;
+    width: 5px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 305%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.circle1 {
+    width: 69px;
+    height: 65px;
+    background-color: rgb(174, 148, 79);
+    border-radius: 100%;
+    position: absolute;
+    top: 287%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 5px solid aliceblue;
+}
+.circle2 {
+    width: 69px;
+    height: 65px;
+    background-color: rgb(174, 148, 79);
+    border-radius: 100%;
+    position: absolute;
+    top: 307%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 5px solid aliceblue;
+}
+.circle3 {
+    width: 69px;
+    height: 65px;
+    background-color: rgb(174, 148, 79);
+    border-radius: 100%;
+    position: absolute;
+    top: 328%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 5px solid aliceblue;
+}
+#circle-logo1 {
+    width: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+#circle-logo2 {
+    width: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+#circle-logo3 {
+    width: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+#year-school {
+    font-size: 10px;
+    color: gray;
+    position: absolute;
+    left: 141%;
+}
+.frntend-card {
+    width: 342px;
+    height: 116px;
+    background-color: aliceblue;
+    position: absolute;
+    left: -384px;
+    border-radius: 5%;
+    box-shadow: 0 8px 6px -6px black;
+}
+#card-frntend-text{
+        position: absolute;
+        left: 18%;
+        top: 7%;
+        color: rgb(82, 82, 82);
+}
+#card-para {
+    position: absolute;
+    left: 27%;
+    top: 26%;
+    color:  rgb(82, 82, 82) ;
+    font-weight: 600;
+}
+.card-list {
+    list-style: none;
+    display: flex;
+}
+.li-card-box {
+    background-color: bisque;
+    width: 10px;
+    height: 20px;
+}
+#li-1 {
+    font-size: 10px;
+    position: absolute;
+    top: 50%;
+}
+#li-2 {
+    font-size: 11px;
+    position: absolute;
+    top: 49%;
+    left: 29%;
+}
+#li-3 {
+    font-size: 11px;
+    position: absolute;
+    top: 49%;
+    left: 46%;
+}
+#li-4 {
+    font-size: 11px;
+    position: absolute;
+    top: 49%;
+    left: 63%;
+}
+#li-5 {
+    font-size: 11px;
+    position: absolute;
+    top: 49%;
+    left: 73%;
+}
+#li-6 {
+    font-size: 11px;
+    position: absolute;
+    top: 49%;
+    left: 83%;
+}
+#li-7 {
+    font-size: 11px;
+    position: absolute;
+    top: 61%;
+    left: 9%;
+}
+#year-college {
+    font-size: 10px;
+    color: gray;
+    position: absolute;
+    left: -121%;
+}
+.college-card {
+    width: 342px;
+    height: 80px;
+    background-color: aliceblue;
+    position: absolute;
+    left: 101px;
+    border-radius: 5%;
+    box-shadow: 0 8px 6px -6px black;
+}
+#cc-text {
+    position: absolute;
+    left: 18%;
+    top: 7%;
+    color: rgb(82, 82, 82);
+}
+#cc-para {
+    position: absolute;
+    left: 34%;
+    top: 32%;
+    color:  rgb(82, 82, 82) ;
+    font-weight: 600;
+}
